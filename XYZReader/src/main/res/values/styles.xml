@@ -36,4 +36,10 @@
         <item name="android:textSize">@dimen/text_small</item>
     </style>
 
+    <style name="ArticleBody">
+        <item name="android:textSize">@dimen/text_large</item>
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+
 </resources>

@@ -1,7 +1,7 @@
 <resources>
 
     <dimen name="article_list_toolbar_height">200dp</dimen>
-
+    <dimen name="detail_inner_top_margin">20dp</dimen>
 
     <dimen name="fab_elevation">2dp</dimen>
     <dimen name="fab_press_translation_z">6dp</dimen>
@@ -10,9 +10,10 @@
     <dimen name="margin_large">16dp</dimen>
     <dimen name="margin_small">4dp</dimen>
 
+    <dimen name="text_large">18sp</dimen>
     <dimen name="text_small">12sp</dimen>
 
+    <dimen name="elevation_toolbar">6dp</dimen>
     <dimen name="elevation_medium">4dp</dimen>
-
 
 </resources>

@@ -11,7 +11,7 @@
         android:layout_height="@dimen/article_list_toolbar_height"
         android:fitsSystemWindows="true"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-        app:elevation="@dimen/elevation_medium">
+        app:elevation="@dimen/elevation_toolbar">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:layout_width="match_parent"
@@ -27,7 +27,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="?attr/actionBarSize"
                 android:layout_gravity="bottom|start"
-                app:elevation="@dimen/elevation_medium"
+                app:elevation="@dimen/elevation_toolbar"
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light">
 
