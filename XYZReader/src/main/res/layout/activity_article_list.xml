@@ -11,7 +11,7 @@
         android:layout_height="@dimen/article_list_toolbar_height"
         android:fitsSystemWindows="true"
         android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-        app:elevation="@dimen/elevation_toolbar">
+        android:elevation="@dimen/elevation_toolbar">
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:layout_width="match_parent"
